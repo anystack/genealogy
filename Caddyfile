@@ -1,0 +1,6 @@
+typo.logy.cc:443 {
+    templates
+    file_server browse
+
+    tls /Users/eric/etc/logy.cc/fullchain.pem /Users/eric/etc/logy.cc/privkey.pem
+}
